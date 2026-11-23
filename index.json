@@ -1,0 +1,24 @@
+{
+ "format": 1,
+ "apps": {
+  "brain": {
+   "latest": "1.0.0",
+   "versions": [
+    {
+     "version": "1.0.0",
+     "file": "packages/brain/brain-1.0.0.cbpk",
+     "sha256": "0d4713cd6d0f9f28a404c736b2630f449a7edcf7f4f56d8f2f070b3413393981",
+     "size": 382907,
+     "published": "2026-11-24",
+     "notes": "Test",
+     "keys": {
+      "c-2121fb3c1eee": "Q0JQSzG2mvpr0yzq7ivMZdRfwJ+zXE4oKZgl5ari+bQzVAo9lBOr0dMUJW2JIlP55MXB1Ybrvw9FYzRTBlVmPqUCPGVAHa4ATvWqC9a38JZMJ9cunQ=="
+     }
+    }
+   ]
+  }
+ },
+ "updated": "2026-11-23T20:15:26+00:00",
+ "publisher": "5cc939032b2a4438",
+ "sig": "sRASkWPUf2Qf2Z84oqowuP6Mv3dy5fUi+RGwdESJUyKO40fPN6OvPhRo2ZviC24zNaWiWf7Y4Cn/R4+o4rZfmFdQqfcrQMufwl+4sp29nuOIFq5YaOq/54NInN/y/F8NoGR9CsuzeG9gu5KheIkBDWpQWnBW7IhKwbwkwKGz/DDeZjjmhrK7aXgwqDsBc3At/wDt0F0mL2E6ZFbWbfUESzsVxA/82pOp36hQ4l1rGqY34YEPbh9czCYhiZza+1XIapnt6Z9aiB3TZgSvcjezQOZfIeUGbofEX0qEsflC7tz7K7+uPjqUJ6ioWPDgzQOyoSte2f6A+6DSvjWnkLEyVty5oEk9k3urh+fgcSwyUBorr3eY+yhaYKLeYQnDQ6bFOEBrnObwTjbELqkAbXOrqbsf4K9Q+udiysh/izrsTVkak0PKKhyn66edOddzASnx+Md9WNGrscsE/cBXCRzzvsN1ttX9srTpzp4G6SzdPpW1fViiZ2Sv7Nudt0THyzdg"
+}
